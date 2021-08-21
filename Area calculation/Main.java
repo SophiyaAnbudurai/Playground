@@ -1,0 +1,8 @@
+s=int(input())
+l=int(input())
+b=int(input())
+r=float(input())
+print(s*s)
+print(l*b)
+c=(3.14*r*r)
+print('%.2f'%(c))

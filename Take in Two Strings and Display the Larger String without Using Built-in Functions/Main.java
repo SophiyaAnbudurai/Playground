@@ -1,0 +1,9 @@
+#python
+a=input()
+b=input()
+a1=len(a)
+b1=len(b)
+if(a1>b1):
+  print(a)
+else:
+  print(b)
